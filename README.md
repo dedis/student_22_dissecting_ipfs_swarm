@@ -197,5 +197,3 @@ echo $command
    ```
    export PATH="your path"
    ```
-
-   
