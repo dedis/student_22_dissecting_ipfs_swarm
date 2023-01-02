@@ -27,7 +27,6 @@ To get started with the notebooks, you will need to have the following dependenc
 - Pandas 1.3.4
 - Plotly 5.6.0
 - Scipy 1.7.1
-
 - tqdm 4.62.3 (optional)
 
 You can install these dependencies using `pip` or your preferred package manager. For example:
